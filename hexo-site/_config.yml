@@ -102,8 +102,4 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: git
-  repo: https://github.com/xiaohaoMT/xiaohaomt.github.io
-  branch: main
-  name: xiaohaoMT
-  email: 1037432782@qq.com
+  type: ''
